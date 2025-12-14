@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オールセーブチャレンジ",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-14T16:16:49.835478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オールセーブチャレンジ",
+      "artist": "Kashi Moimi",
+      "has_synced": false,
+      "path": "select/01_オールセーブチャレンジ_Kashi_Moimi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オールセーブチャレンジ (feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_オールセーブチャレンジ_(feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
